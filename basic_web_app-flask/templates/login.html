@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Login</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='../static/style.css'>
+    <link rel='icon' href="https://upload.wikimedia.org/wikipedia/commons/5/52/Skill_development_images.png">
+    <script src='main.js'></script>
+
+    <!-- Bootstrap Design CDN-->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+    {% if error %}
+        <p>{{ error }}</p>
+    {% endif %}
+    <div class="sidenav">
+        <div class="login-main-text">
+           <img src="https://cdn-icons-png.flaticon.com/512/295/295128.png" height="150px" width="150px">
+           <h2>Application<br> Login Page</h2>
+           <p>A login form utilizes the credentials of a user, in order to authenticate their access.</p>
+        </div>
+     </div>
+     <div class="main">
+        <div class="col-md-6 col-sm-12">
+           <div class="login-form">
+              <form action="/login" method="post">
+                 <div class="form-group">
+                    <label>User Name</label>
+                    <input type="text" class="form-control" placeholder="User Name" id="username" name="username" required>
+                 </div>
+                 <div class="form-group">
+                    <label>Password</label>
+                    <input type="password" class="form-control" placeholder="Password" id="password" name="password" required>
+                 </div>
+                 <button type="submit" class="btn btn-black">Login</button>
+                 <a href="/register" class="btn btn-secondary">Register</a>
+              </form>
+           </div>
+        </div>
+        <footer> <small>&copy; Copyright 2023, Skillset Python Courses</small> </footer> 
+     </div>
+</body>
+</html>

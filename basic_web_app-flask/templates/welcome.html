@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8'>
+    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+    <title>Welcome</title>
+    <meta name='viewport' content='width=device-width, initial-scale=1'>
+    <link rel='stylesheet' type='text/css' media='screen' href='../static/style.css'>
+    <script src='main.js'></script>
+
+    <!-- Bootstrap Design CDN-->
+    <link href="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+</head>
+<body>
+    <div class="user-info">
+        <h1>Welcome, {{ username }}!</h1>
+        <ul>
+            <li><span>🧑 Fullname: </span>{{ fullname }}</li>
+            <li><span>📧 Email: </span>{{ email }}</li>
+            <li><span>📱 Phone: </span>{{ phone }}</li>
+            <li><span>🃏 Joke: </span>{{ joke }}</li>
+        </ul>
+        <a href="/login" class="btn btn-black">Exit</a>
+    </div>
+</body>
+</html>
