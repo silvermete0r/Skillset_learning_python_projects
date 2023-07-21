@@ -2,6 +2,9 @@
 > A roadmap to guide you in becoming a strong Python developer, starting from the beginner level. This roadmap outlines the key topics, skills, and resources to help you progress and build a solid foundation in Python development.
 
 [![img][img]](https://python.org/)
+
+[![roadmap][roadmap](https://www.linkedin.com/groups/25827/)]
+
 *[>>>Python_Roadmap_SH.pdf<<<](https://github.com/silvermete0r/Skillset_learning_python_projects/files/12035932/Python_Roadmap_SH.pdf)*
 
 ## Beginner Level
@@ -85,3 +88,4 @@
 * **More Detailed RoadMap**: [Roadmap.sh](https://roadmap.sh/python)
 
 [img]: https://sun9-13.userapi.com/impg/tARfBxdi0MiKSlkYYJqbWq02AEeDS8fH2fx3Cw/MhJXE-oW-lM.jpg?size=1000x346&quality=95&sign=0f4343d51f0c166261c06e1987554484&type=album
+[roadmap]: https://sun9-70.userapi.com/impg/lfMo5CEDWJrSmvmerSddivBeeGjGozblkrJgvA/j56TmEWnJDc.jpg?size=1089x1280&quality=95&sign=7c84da41e05c6d74c56c59dc327c6768&type=album
