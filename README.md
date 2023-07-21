@@ -3,7 +3,7 @@
 
 [![img][img]](https://python.org/)
 
-[![roadmap][roadmap](https://www.linkedin.com/groups/25827/)]
+[![roadmap][roadmap]](https://www.linkedin.com/groups/25827/)
 
 *[>>>Python_Roadmap_SH.pdf<<<](https://github.com/silvermete0r/Skillset_learning_python_projects/files/12035932/Python_Roadmap_SH.pdf)*
 
