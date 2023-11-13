@@ -86,6 +86,7 @@
 * **Documentation**: Official Python documentation and library-specific documentation: [python.org/doc](https://www.python.org/doc/).
 * **Websites and Blogs**: [w3schools](https://www.w3schools.com/python/), [metanit](https://metanit.com/python/tutorial/), [freecodecamp](https://www.freecodecamp.org/news/tag/python/), [LetPy](https://letpy.com/python-guide/), [Kaggle](https://www.kaggle.com/learn/python), [Hackerrank](https://www.hackerrank.com/domains/python), [Sololearn](https://www.sololearn.com/learning/1073)
 * **More Detailed RoadMap**: [Roadmap.sh](https://roadmap.sh/python)
+* **Telegram Channels:** [Python/Django](https://t.me/pythonl), [Библиотека питониста | Python, Django, Flask](https://t.me/pyproglib)
 
 [img]: https://sun9-13.userapi.com/impg/tARfBxdi0MiKSlkYYJqbWq02AEeDS8fH2fx3Cw/MhJXE-oW-lM.jpg?size=1000x346&quality=95&sign=0f4343d51f0c166261c06e1987554484&type=album
 [roadmap]: https://sun9-70.userapi.com/impg/lfMo5CEDWJrSmvmerSddivBeeGjGozblkrJgvA/j56TmEWnJDc.jpg?size=1089x1280&quality=95&sign=7c84da41e05c6d74c56c59dc327c6768&type=album
