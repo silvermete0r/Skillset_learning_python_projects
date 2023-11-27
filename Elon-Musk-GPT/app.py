@@ -19,11 +19,7 @@ def elon_musk_gpt(message):
         engine='text-davinci-003',
         prompt=chat_history,
         max_tokens=50,
-        temperature=0.8,
-        top_p=1.0,
-        n=1,
-        stop=None,
-        temperature_decay_rate=0.9
+        temperature=0.8
     )
 
     chatbot_reply = response.choices[0].text.strip().split("Elon Musk GPT: ")[1]
