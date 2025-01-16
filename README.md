@@ -1,6 +1,8 @@
 # Python Developer Roadmap 🐍
 > A roadmap to guide you in becoming a strong Python developer, starting from the beginner level. This roadmap outlines the key topics, skills, and resources to help you progress and build a solid foundation in Python development.
 
+> Python Presentation Full Preparation Guide by Skillset School: [>>>Python_Full_Guide<<<](https://drive.google.com/file/d/1iKGxFJ4dZdfM6EHJLkon0i-d4Oj39719/view?usp=sharing)
+
 [![img][img]](https://python.org/)
 
 [![roadmap][roadmap]](https://www.linkedin.com/groups/25827/)
